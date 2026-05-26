@@ -40,21 +40,5 @@ The lab simulates a small enterprise-style environment and demonstrates hands-on
 
 ---
 
-## Screenshots
-
-### Virtual Machine Environment
-(Add screenshot here)
-
-### Nmap Scan Results
-(Add screenshot here)
-
-### Wireshark Packet Capture
-(Add screenshot here)
-
-### Firewall Configuration
-(Add screenshot here)
-
----
-
 ## What I Learned
 This project helped me understand how systems communicate across a network, how to identify exposed services, and how monitoring and firewall tools are used to secure systems in real-world IT and security environments.
